@@ -24,5 +24,5 @@ for _ in range(2):
     x = next_city
 
 print(" → ".join(l[i] for i in visited))
-print(d[v])
+
 
